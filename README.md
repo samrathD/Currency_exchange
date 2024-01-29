@@ -24,7 +24,8 @@ git clone https://github.com/your-username/currency-converter.git
 Enter the amount you want to convert and select the source and target currencies from the dropdown menus.
 * Click the "Get Exchange Rate" button to see the converted amount.
 
-
+# Access the website at - 
+* https://samrathd.github.io/Currency_exchange/ 
 
 # Acknowledgments
 
